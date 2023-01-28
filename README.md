@@ -18,16 +18,11 @@
 <img aling="center" alt="html5" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 <img aling="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img aling="center" alt="html5" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img aling="center" alt="html5" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img aling="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div>
 </br>
 
 ### Sobre Mim
 
-Sou um estudande de tecnologia apaixonado por desenvolvimento web, no momento estou no primeiro semestre de analise e desenvolvimento de sistemas e com o curso tecnico de desenvolvimento de sistemas completo, e estou focado em aprender Laravel 
-
-
-
-
-
-
-
+Sou um estudande de tecnologia apaixonado por desenvolvimento web Full Stack, no momento estou no segundo semestre de analise e desenvolvimento de sistemas, com o curso tecnico de desenvolvimento de sistemas completo e trabalhando como desenvolvedor web, estou focado em PHP e Typescript
