@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre Mim
 
-Olá! Meu nome é **Pedro Lima**, e sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou no último semestre do curso de **Análise e Desenvolvimento de Sistemas**. Com uma sólida base em desenvolvimento Full Stack, busco sempre aprender e explorar novas tecnologias.
+Olá! Meu nome é **Pedro**, e sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou no último semestre do curso de **Análise e Desenvolvimento de Sistemas**. Com uma sólida base em desenvolvimento Full Stack, busco sempre aprender e explorar novas tecnologias.
 
 Além de trabalhar como desenvolvedor web, focando em **PHP** e **TypeScript**, também estou me aprofundando em tecnologias móveis como **Flutter** e **Dart**.
 
