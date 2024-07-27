@@ -58,8 +58,6 @@ Sou movido por desafios e a busca por soluções inovadoras, sempre com um olhar
 
 # 👋 Hello! Welcome to my profile
 
-![Pedro's GitHub banner](https://images.unsplash.com/photo-1603770081695-bda6c9e9b12e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80)
-
 ---
 
 ## 🚀 About Me
