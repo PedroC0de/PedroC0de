@@ -1,114 +1,172 @@
-# 👋 Olá! Bem-vindo ao meu perfil
+<!-- HEADER -->
 
----
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:3B82F6,100:06B6D4&height=220&section=header&text=Pedro%20Lima&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55"/>
+</p>
 
-## 🚀 Sobre Mim
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=👋+Olá,+eu+sou+Pedro+Lima;💻+Full+Stack+Developer;⚡+PHP+•+Laravel+•+TypeScript;🚀+Vue.js+•+Node.js+•+Docker;🤖+AI+Powered+Development"/>
+</p>
 
-Olá! Meu nome é **Pedro**, e sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou no último semestre do curso de **Análise e Desenvolvimento de Sistemas**. Com uma sólida base em desenvolvimento Full Stack, busco sempre aprender e explorar novas tecnologias.
+<div align="center">
 
-Além de trabalhar como desenvolvedor web, focando em **PHP** e **TypeScript**, também estou me aprofundando em tecnologias móveis como **Flutter** e **Dart**.
+[![Profile Views](https://komarev.com/ghpvc/?username=PedroC0de&style=for-the-badge&color=0e75b6)](https://github.com/PedroC0de)
+[![Followers](https://img.shields.io/github/followers/PedroC0de?style=for-the-badge)](https://github.com/PedroC0de)
+[![Stars](https://img.shields.io/github/stars/PedroC0de?style=for-the-badge)](https://github.com/PedroC0de)
 
-Sou movido por desafios e a busca por soluções inovadoras, sempre com um olhar crítico e criativo para entregar o melhor resultado possível.
-
----
-
-## 💼 Tecnologias que uso diariamente
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img align="center" alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div>
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
+# 🚀 Sobre mim
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroC0de&show_icons=true&theme=dracula&count_private=true&hide=prs" alt="Pedro's GitHub stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroC0de&layout=compact&langs_count=8&theme=dracula" alt="Top Langs" height="180em"/>
-</p>
+```php
+<?php
+
+class PedroLima
+{
+    public string $role = "Full Stack Developer";
+
+    public int $experience = 4;
+
+    public string $degree = "Systems Analysis and Development";
+
+    public array $backend = [
+        "PHP",
+        "Laravel",
+        "Node.js",
+        "TypeScript"
+    ];
+
+    public array $frontend = [
+        "Vue.js",
+        "JavaScript",
+        "HTML",
+        "CSS"
+    ];
+
+    public array $database = [
+        "MySQL",
+        "PostgreSQL"
+    ];
+
+    public array $tools = [
+        "Docker",
+        "Git",
+        "Linux",
+        "GitHub Actions"
+    ];
+
+    public array $ai = [
+        "GitHub Copilot",
+        "Cursor",
+        "Claude Code",
+        "OpenAI Codex"
+    ];
+
+    public string $passion =
+        "Building scalable software and solving complex problems.";
+}
+
+?>
+```
 
 ---
 
-## 🌐 Conecte-se comigo
+# ⚙️ Tecnologias
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pedro-lima-889918204/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/PedroC0de" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,ts,js,vue,html,css,mysql,postgres,docker,git,linux,vscode,github,postman"/>
 
-
-# 👋 Hello! Welcome to my profile
-
----
-
-## 🚀 About Me
-
-Hello! My name is **Pedro Lima**, and I'm a passionate technology enthusiast and software development student. Currently, I'm in the last semester of my **System Analysis and Development** course. With a strong foundation in Full Stack development, I am always eager to learn and explore new technologies.
-
-Working as a web developer, I focus on **PHP** and **TypeScript**, while also diving into mobile technologies like **Flutter** and **Dart**.
-
-I'm driven by challenges and the pursuit of innovative solutions, always looking to deliver the best possible outcome with a critical and creative approach.
-
----
-
-## 💼 Technologies I Use Daily
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img align="center" alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div>
 
 ---
 
-## 📊 My GitHub Stats
+# 📊 Estatísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroC0de&show_icons=true&theme=dracula&count_private=true&hide=prs" alt="Pedro's GitHub stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroC0de&layout=compact&langs_count=8&theme=dracula" alt="Top Langs" height="180em"/>
-</p>
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=PedroC0de&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroC0de&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=PedroC0de&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Conquistas
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PedroC0de&theme=tokyonight&column=4&no-frame=true"/>
+
+</div>
 
 ---
 
-## 🌐 Connect with Me
+# 📈 Contribuições
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pedro-lima-889918204/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/PedroC0de" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroC0de&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ---
+
+# 🐍 Snake Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/PedroC0de/PedroC0de/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🤖 Atualmente
+
+🚀 Desenvolvendo aplicações escaláveis
+
+💡 Aprimorando arquitetura de software
+
+🤖 Explorando IA aplicada ao desenvolvimento
+
+📚 Aprendendo continuamente novas tecnologias
+
+---
+
+# 🌎 Vamos nos conectar
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/pedro-lima-889918204">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/PedroC0de">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<p align="center">
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+</p>
+
+<p align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:3B82F6,100:4F46E5&height=120&section=footer"/>
+
+</p>
